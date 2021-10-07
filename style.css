@@ -1,0 +1,15 @@
+#change-layout-space {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+#feed-square img {
+    width:100%;
+    height:250px;
+    align-self: center;
+    object-fit: cover;
+    border: 2px solid white;
+}
+
+
